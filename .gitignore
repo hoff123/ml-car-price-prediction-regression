@@ -1,0 +1,6 @@
+# don’t version large raw data
+data/
+*.zip
+*.csv
+# Colab checkpoints
+.ipynb_checkpoints/
