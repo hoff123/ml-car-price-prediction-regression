@@ -2,5 +2,5 @@ pandas
 numpy
 scikit-learn
 matplotlib
-nbdime        # notebook-friendly diff/merge
+nbdime 
 kaggle
